@@ -4,12 +4,19 @@
 <p align="center">
   <b>Full-Stack Developer</b> • Romania • Open to Full-Stack Opportunities
 </p>
-
 <p align="center">
-  <a href="<LINKEDIN_URL>">LinkedIn</a> •
-  <a href="<PORTFOLIO_URL>">Portfolio</a> •
-  <a href="mailto:<EMAIL>">Email</a> •
-  <a href="<RESUME_URL>">Resume</a>
+  <a href="<LINKEDIN_URL>" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="<PORTFOLIO_URL>" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:<EMAIL>">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="<BLUESKY_URL>" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-111111?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
 </p>
 
 ---
