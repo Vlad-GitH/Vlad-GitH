@@ -59,13 +59,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet vitae q
 ---
 
 ### Featured Work
-- ⭐ **Side To Side Translate** — Google Doc app script that translates documents in a side to side view for easy leagle document translations. [Soon] 
+- ⭐ **Side To Side Translate** — Google Doc app script that translates documents in a side to side view for easy leagle document translations.[Soon]
+  
   Repo: <LINK> • Demo: <LINK>
 
-- ⭐ **Portfolio Website** — My personal website and portfolio. [Soon]
+- ⭐ **Portfolio Website** — My personal website and portfolio.[Soon]
+  
   Repo: <LINK> • Demo: <LINK>
 
-- ⭐ **Movie Tracker** — Working on a Movie Tracker mobile and web app [Soon]
+- ⭐ **Movie Tracker** — Working on a Movie Tracker mobile and web app.[Soon]
+  
   Repo: <LINK> • Demo: <LINK>
 
 ---
