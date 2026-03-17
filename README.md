@@ -59,13 +59,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet vitae q
 ---
 
 ### Featured Work
-- ⭐ **<PROJECT 1 NAME>** — Built a <type of app> solving <problem>, featuring <key tech / feature>.  
+- ⭐ **<Side To Side Translate>** — Google Doc <app script> that <translates> documents in a side to side view for easy leagle document translations. [Soon] 
   Repo: <LINK> • Demo: <LINK>
 
-- ⭐ **<PROJECT 2 NAME>** — Developed <what it does> with focus on <performance / UX / architecture>.  
+- ⭐ **<Portfolio Website>** — My personal website and portfolio. [Soon]
   Repo: <LINK> • Demo: <LINK>
 
-- ⭐ **<PROJECT 3 NAME>** — Designed and implemented <core functionality>, including <auth / API / database logic>.  
+- ⭐ **<Movie Tracker>** — Working on a Movie Tracker mobile and web app [Soon]
   Repo: <LINK> • Demo: <LINK>
 
 ---
