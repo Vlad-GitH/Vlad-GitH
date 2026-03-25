@@ -59,18 +59,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet vitae q
 ---
 
 ### Featured Work
-- ⭐ **Side To Side Translate** — Google Doc app script that translates documents in a side to side view for easy leagle document translations.[Soon]
+<p>
   
-  Repo: <LINK> • Demo: <LINK>
+- ⭐ **Side To Side Translate** — Google Doc app script that translates documents in a side to side view for easy leagle document translations.
+  
+  Repo: [Soon] • Demo: [Soon]
 
-- ⭐ **Portfolio Website** — My personal website and portfolio.[Soon]
+- ⭐ **Portfolio Website** — My personal website and portfolio.
   
-  Repo: <LINK> • Demo: <LINK>
+  Repo: [Soon] • Demo: <a href="https://vlad-dev-53f43e.gitlab.io/" target="_blank">Link</a>
 
 - ⭐ **Movie Tracker** — Working on a Movie Tracker mobile and web app.[Soon]
   
-  Repo: <LINK> • Demo: <LINK>
-
+  Repo: [Soon] • Demo: [Soon]
+  
+</p>
 ---
 
 ### What I value in code
