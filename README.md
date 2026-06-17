@@ -29,8 +29,9 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet vitae quam eget interdum. Sed a nunc et dui gravida dapibus. Maecenas pretium dui ac tortor feugiat ornare et vitae ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam erat volutpat. Nulla sodales vehicula enim non maximus. Proin sed ante sed purus bibendum finibus. Suspendisse dictum finibus arcu eget imperdiet. Phasellus in tristique nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris finibus viverra massa quis sodales. Etiam eu vestibulum ipsum. 
 <!-- Probably not -->
 </p>
-- 🌱 Learning: Python, Next.js, Supabase
 
+- :sparkles: Learning: Python, Next.js, Supabase
+- :sparkles: Working On: Next.js and Supabase Web App
 ---
 
 ### Tech Stack
