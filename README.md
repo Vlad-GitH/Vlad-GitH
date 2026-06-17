@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Vlad 👋</h1>
+<h1 align="center">Hi, I'm Vlad 👋 </h1>
 <p align="center">
   <b>Full-Stack Developer</b> • Romania • Open to Full-Stack Opportunities
 </p>
@@ -64,25 +64,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet vitae q
   
 - ⭐ **Side To Side Translate** — Google Doc app script that translates documents in a side to side view for easy leagle document translations.
   
-  Repo: [Soon] • Demo: [Soon]
+  Repo: [Soon] • Demo: [Soon] - Its out there, just not fleshed out for public
 
 - ⭐ **Portfolio Website** — My personal website and portfolio.
   
-  Repo: [Soon] • Demo: <a href="https://vlad-dev-53f43e.gitlab.io/" target="_blank">[Link]</a>
+  Repo: [Soon] • Demo: [Link](https://vlad-dev-53f43e.gitlab.io/)
 
-- ⭐ **Movie Tracker** — Working on a Movie Tracker mobile and web app.[Soon]
+- ⭐ **Python Image Manipulation** — Small Python/OpenCV command-line tools for extracting UI assets from screenshots.
   
-  Repo: [Soon] • Demo: [Soon]
+  Repo: [Soon] • Demo: [Soon] - Its out there, just not fleshed out for public
+
+- ⭐ **Game Web App** — Next.js and Supabase Web App
+  
+  Repo: [Soon] • Demo: [Soon] - My Current Work
   
 </p>
 
 ---
 
-### What I value in code
-- ✅ Readability  
-- ✅ Clear structure  
-- ✅ Small, focused commits
-- ✅ Documentation that scales with the project
-
----
 <!--Add Stats-->
