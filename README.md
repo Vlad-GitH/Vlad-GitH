@@ -73,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet vitae q
   
   [Repo](https://github.com/Vlad-GitH/Book-Library) • [Demo](https://vlad-book-library.pages.dev/)
 
-- ⭐ **Book Library** — Frontend made with React + TypeScript + Vite and PostgreSQL via Supabase database
+- ⭐ **Studio Hub** 
   
   [Repo](https://gitlab.com/Vlad-Code/Studio-Hub) • [Demo](https://studio-hub-db3bc3.gitlab.io)
   
