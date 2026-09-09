@@ -1,22 +1,16 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi, I'm Vlad 👋 </h1>
+
 <p align="center">
   <b>Full-Stack Developer</b> • Romania • Open to Full-Stack Opportunities
 </p>
+
 <p align="center">
-  <a href="<LINKEDIN_URL>" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="<PORTFOLIO_URL>" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:<EMAIL>">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="<BLUESKY_URL>" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-111111?style=for-the-badge&logo=bluesky&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vlad-dev-53f43e.gitlab.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:vdragos.91@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/vl-ad.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-111111?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
 </p>
 
 ---
@@ -65,19 +59,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer laoreet vitae q
   
 - ⭐ **Side To Side Translate** — Google Doc app script that translates documents in a side to side view for easy leagle document translations.
   
-  Repo: [Soon] • Demo: [Soon] - Its out there, just not fleshed out for public
+  [Repo](https://github.com/Vlad-GitH/side-by-side-translate) • [Demo] - Its out there, just not fleshed out for public
 
 - ⭐ **Portfolio Website** — My personal website and portfolio.
   
-  Repo: [Soon] • Demo: [Link](https://vlad-dev-53f43e.gitlab.io/)
+  [Repo](https://github.com/Vlad-GitH/vlad.dev) • [Demo](https://vlad-dev-53f43e.gitlab.io/)
 
-- ⭐ **Python Image Manipulation** — Small Python/OpenCV command-line tools for extracting UI assets from screenshots.
+- ⭐ **Python Image Manipulation** — Small Python/OpenCV command-line tools for extracting certain UI assets from screenshots.
   
-  Repo: [Soon] • Demo: [Soon] - Its out there, just not fleshed out for public
+  [Repo](https://github.com/Vlad-GitH/WWM_Croppers) • [Demo] - Its out there, just not fleshed out for public
 
-- ⭐ **Game Web App** — Next.js and Supabase Web App
+- ⭐ **Book Library** — Frontend made with React + TypeScript + Vite and PostgreSQL via Supabase database
   
-  Repo: [Soon] • Demo: [Soon] - My Current Work
+  [Repo](https://github.com/Vlad-GitH/Book-Library) • [Demo](https://vlad-book-library.pages.dev/)
+
+- ⭐ **Book Library** — Frontend made with React + TypeScript + Vite and PostgreSQL via Supabase database
+  
+  [Repo](https://gitlab.com/Vlad-Code/Studio-Hub) • [Demo](https://studio-hub-db3bc3.gitlab.io)
   
 </p>
 
