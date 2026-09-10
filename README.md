@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://vlad-dev-53f43e.gitlab.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=white" /></a>
-  <a href="mailto:vdragos.91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" /></a>
-  <a href="https://bsky.app/profile/vl-ad.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white" /></a>
+  <a href="https://vlad-dev-53f43e.gitlab.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=fff" /></a>
+  <a href="mailto:vdragos.91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff" /></a>
+  <a href="https://bsky.app/profile/vl-ad.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" /></a>
 </p>
 
 ---
@@ -29,12 +29,12 @@ I also have a habit of starting side projects faster than I finish them.
 
 #### Languages
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5\&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5\&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css\&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=000)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=fff)](#)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart\&logoColor=white)](#)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart\&logoColor=fff)](#)
 
 #### Frameworks & Libraries
 
@@ -42,16 +42,16 @@ I also have a habit of starting side projects faster than I finish them.
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js\&logoColor=white)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react\&logoColor=%2361DAFB)](#)
 [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo\&logoColor=fff)](#)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django\&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django\&logoColor=fff)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=fff)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css\&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css\&logoColor=fff)](#)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui\&logoColor=fff)](#)
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress\&logoColor=white)](#)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress\&logoColor=fff)](#)
 
 #### Backend & Data
 
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js\&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js\&logoColor=fff)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql\&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=fff)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase\&logoColor=fff)](#)
 
@@ -59,8 +59,8 @@ I also have a habit of starting side projects faster than I finish them.
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=fff)](#)
-[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-FF4A03?logo=Cloudflare-Workers\&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=white)](#)
+[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-FF4A03?logo=Cloudflare-Workers\&logoColor=fff)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=fff)](#)
 
 ---
 
@@ -74,7 +74,7 @@ Google Docs Apps Script for translating documents in a side-by-side view, built 
 
 #### Book Library
 
-React + TypeScript book library backed by PostgreSQL and Supabase. 
+React + TypeScript book library backed by PostgreSQL and Supabase.
 
 [Live Demo](https://vlad-book-library.pages.dev/) • [Repository](https://github.com/Vlad-GitH/Book-Library)
 
