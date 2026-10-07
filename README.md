@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://vlad-dev-53f43e.gitlab.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=fff" /></a>
+  <a href="https://vlad-hub.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?logo=vercel&logoColor=fff" /></a>
   <a href="mailto:vdragos.91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff" /></a>
   <a href="https://bsky.app/profile/vl-ad.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff" /></a>
 </p>
@@ -88,6 +88,6 @@ Small Python/OpenCV CLI tools for extracting specific UI assets from screenshots
 
 My personal portfolio website.
   
-[Live Demo](https://vlad-dev-53f43e.gitlab.io/) • [Repository](https://github.com/Vlad-GitH/vlad.dev)
+[Live Demo](https://vlad-hub.pages.dev/) • [Repository](https://github.com/Vlad-GitH/vlad.dev)
 
 <!-- Add Studio Hub once it has a short description -->
